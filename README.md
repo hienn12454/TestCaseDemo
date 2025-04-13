@@ -1,4 +1,4 @@
-[![Math Utility Project (CI included) | © 2025 by namnm309](https://github.com/namnm309/TestCaseDemo/actions/workflows/maven.yml/badge.svg)](https://github.com/namnm309/TestCaseDemo/actions/workflows/maven.yml)
+[![Math Utility Project (CI included) | © 2025 by hienn12454](https://github.com/namnm309/TestCaseDemo/actions/workflows/maven.yml/badge.svg)](https://github.com/hienn12454/TestCaseDemo/actions/workflows/maven.yml)
 
 # Welcome to Math Utility Repository
 
@@ -10,8 +10,8 @@
 *...
 
 ## Screen-shots
-![JUnit with TDD DDT](https://github.com/namnm309/TestCase1/blob/main/img/Demo.png)
+![JUnit with TDD DDT](https://github.com/hienn12454/TestCaseDemo/blob/main/img/Demo.png)
 
-### Connect me via namnm309@gmail.com
-#### &#169; 2025 Minh.Nam
+### Connect me via hien12454@gmail.com
+#### &#169; 2025 Trung.Hien
 
