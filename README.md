@@ -1,4 +1,4 @@
-[![Math Utility Project (CI included) | © 2025 by hienn12454](https://github.com/namnm309/TestCaseDemo/actions/workflows/maven.yml/badge.svg)](https://github.com/hienn12454/TestCaseDemo/actions/workflows/maven.yml)
+[![Math Utility Project (CI included) | © 2025 by hienn12454](https://github.com/hienn12454/TestCaseDemo/actions/workflows/maven.yml/badge.svg)](https://github.com/hienn12454/TestCaseDemo/actions/workflows/maven.yml)
 
 # Welcome to Math Utility Repository
 
